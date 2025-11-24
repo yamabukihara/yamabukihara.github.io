@@ -5,4 +5,4 @@
 
 [Markdown语法](./markdown/index.md)  
 
-[程序设计与计算思维](./programming/index.md)
+[程序设计](./computer_science/README.md)
