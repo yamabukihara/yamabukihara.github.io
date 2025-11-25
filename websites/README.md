@@ -122,6 +122,24 @@
         </div>
     </div>
 </a>
+<a href="https://deepwiki.org/" target="_blank" title="https://gemini.google.com/" style="text-decoration: none;display:block;width: 250px;margin: 0 20px 20px 0;padding: 16px;border-radius: 10px;border: 1px solid #EEE;">
+    <div style="display: flex;align-items: center;">
+        <img src="https://th.bing.com/th/id/ODF.iiW-e-FrtKFFnSZWtuPZiw?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" style="width:36px;height:36px;border-radius:50%;object-fit:cover;margin-right:8px;display:block;" />
+        <div style="overflow:hidden;">
+            <div style="color: #333;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;">DeepWiki</div>
+            <div style="margin-top:2px;font-size: 12px;color: #999;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;">DeepWiki ：让全球每个GitHub项目开口说话，颠覆代码阅读方式</div>
+        </div>
+    </div>
+</a>
+<a href="https://sourcegraph.com/search" target="_blank" title="https://gemini.google.com/" style="text-decoration: none;display:block;width: 250px;margin: 0 20px 20px 0;padding: 16px;border-radius: 10px;border: 1px solid #EEE;">
+    <div style="display: flex;align-items: center;">
+        <img src="https://th.bing.com/th/id/ODF.ohDggNaVb2RrR_BAduKRYQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" style="width:36px;height:36px;border-radius:50%;object-fit:cover;margin-right:8px;display:block;" />
+        <div style="overflow:hidden;">
+            <div style="color: #333;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;">SourceGraph</div>
+            <div style="margin-top:2px;font-size: 12px;color: #999;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;">一款开源的速度很快的代码搜索，浏览引擎，可以非常方便地浏览和搜索 GitHub 上的代码</div>
+        </div>
+    </div>
+</a>
 </div>
 
 #### 科学上网
